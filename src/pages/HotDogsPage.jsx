@@ -24,7 +24,7 @@ const SITE_CONFIG = {
       name: "DOG CLÁSSICO",
       description:
         "Salsicha, pão, ketchup, mostarda e batata palha",
-      price: "R$ 14,90",
+      price: 14.90,
       button: "ADICIONAR AO CARRINHO",
     },
     {
@@ -32,7 +32,7 @@ const SITE_CONFIG = {
       name: "DOG COMPLETO",
       description:
         "Salsicha, pão, milho, ervilha, batata palha, ketchup e mostarda",
-      price: "R$ 17,90",
+      price: 17.90,
       button: "ADICIONAR AO CARRINHO",
     },
     {
@@ -40,7 +40,7 @@ const SITE_CONFIG = {
       name: "DOG BACON",
       description:
         "Salsicha, pão, bacon, queijo, batata palha, ketchup e mostarda",
-      price: "R$ 19,90",
+      price: 19.90,
       button: "ADICIONAR AO CARRINHO",
     },
     {
@@ -48,7 +48,7 @@ const SITE_CONFIG = {
       name: "DOG CHEDDAR",
       description:
         "Salsicha, pão, cheddar, batata palha, ketchup e mostarda",
-      price: "R$ 18,90",
+      price: 18.90,
       button: "ADICIONAR AO CARRINHO",
     },
   ],
