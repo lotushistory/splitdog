@@ -6,49 +6,60 @@ const SITE_CONFIG = {
     category: "Cardápio",
     current: "Hot Dogs",
   },
-
   hero: {
     image: "/assets/hotdogs/hero.png",
-
     title: "HOT DOGS",
     subtitle: "Clássico, completo e do seu jeito!",
     description:
-      "Salsicha de qualidade, ingredientes selecionados\ne muito sabor em cada mordida.",
+      "Salsicha de qualidade, ingredientes selecionados e muito sabor em cada mordida.",
   },
-
   sectionTitle: "NOSSOS HOT DOGS",
-
   products: [
     {
       image: "/assets/hotdogs/produto-1.png",
-      name: "DOG CLÁSSICO",
+      name: "DOG DA CASA",
       description:
-        "Salsicha, pão, ketchup, mostarda e batata palha",
-      price: 14.90,
+        "Uma salsicha, molho de tomate artesanal, bacon, calabresa, frango refogado, purê de batata, queijo muçarela, milho, vinagrete e batata palha.",
+      price: 28.0,
       button: "ADICIONAR AO CARRINHO",
     },
     {
       image: "/assets/hotdogs/produto-2.png",
-      name: "DOG COMPLETO",
+      name: "DOG FRANGO COM CATUPIRY",
       description:
-        "Salsicha, pão, milho, ervilha, batata palha, ketchup e mostarda",
-      price: 17.90,
+        "Uma salsicha, molho de tomate artesanal, frango, catupiry, milho, purê de batata, vinagrete, maionese e batata palha.",
+      price: 26.0,
       button: "ADICIONAR AO CARRINHO",
     },
     {
       image: "/assets/hotdogs/produto-3.png",
-      name: "DOG BACON",
+      name: "DOG PORTUGUESA",
       description:
-        "Salsicha, pão, bacon, queijo, batata palha, ketchup e mostarda",
-      price: 19.90,
+        "Duas salsichas, maionese, vinagrete, milho, presunto, ovo cozido, azeitona, molho de tomate artesanal, queijo muçarela e batata palha.",
+      price: 26.0,
       button: "ADICIONAR AO CARRINHO",
     },
     {
       image: "/assets/hotdogs/produto-4.png",
-      name: "DOG CHEDDAR",
+      name: "DOG VEGETARIANO",
       description:
-        "Salsicha, pão, cheddar, batata palha, ketchup e mostarda",
-      price: 18.90,
+        "Cenoura temperada com shoyu e gergelim, cominho, maionese, vinagrete, milho, azeitona, molho de tomate artesanal e purê de batata.",
+      price: 26.0,
+      button: "ADICIONAR AO CARRINHO",
+    },
+    {
+      image: "/assets/hotdogs/vermelho (1).png",
+      name: "DOG AMERICANO",
+      description:
+        "Pão tradicional, duas salsichas, milho, queijo muçarela, molho de tomate e batata palha.",
+      price: 15.0,
+      button: "ADICIONAR AO CARRINHO",
+    },
+    {
+      image: "/assets/hotdogs/produto-4.png",
+      name: "DOG KIDS",
+      description: "Duas salsichas, batata palha e queijo muçarela.",
+      price: 15.0,
       button: "ADICIONAR AO CARRINHO",
     },
   ],

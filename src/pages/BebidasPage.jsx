@@ -7,7 +7,7 @@ const SITE_CONFIG = {
     current: "Bebidas",
   },
   hero: {
-    image: "",
+    image: "/assets/cardapio/bebida.png",
     title: "BEBIDAS",
     subtitle: "",
     description: "",

@@ -7,7 +7,7 @@ const SITE_CONFIG = {
     current: "Milk Shakes",
   },
   hero: {
-    image: "",
+    image: "/assets/cardapio/milkshake.png",
     title: "MILK SHAKES",
     subtitle: "",
     description: "",
