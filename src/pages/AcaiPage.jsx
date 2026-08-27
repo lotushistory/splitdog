@@ -12,7 +12,7 @@ const SITE_CONFIG = {
     subtitle: "",
     description: "",
   },
-  sectionTitle: "NOSSO AÇAÍ",
+  sectionTitle: "NOSSOS AÇAÍS",
   products: [],
 };
 
