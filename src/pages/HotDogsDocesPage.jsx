@@ -15,7 +15,7 @@ const SITE_CONFIG = {
   sectionTitle: "NOSSOS DOGS DOCES",
   products: [
     {
-      image: "/assets/hotdogs/vermelho (1).png",
+      image: "/assets/dog-doces/hero.png",
       name: "DOG DOCE",
       description:
         "Pão, leite Moça e Nutella. Fruta/base opcional: banana, chocolate, coco ou morango.",

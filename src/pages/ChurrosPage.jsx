@@ -15,14 +15,14 @@ const SITE_CONFIG = {
   sectionTitle: "NOSSOS CHURROS",
   products: [
     {
-      image: "/assets/cardapio/churros.png",
+      image: "/assets/churros/churros.png",
       name: "DOCE DE LEITE + CHOCOLATE",
       description: "Churros recheado com doce de leite e chocolate.",
       price: 20.0,
       button: "ADICIONAR AO CARRINHO",
     },
     {
-      image: "/assets/cardapio/churros.png",
+      image: "/assets/churros/churros.png",
       name: "NUTELLA",
       description: "Churros recheado com Nutella.",
       price: 22.0,

@@ -7,7 +7,7 @@ const SITE_CONFIG = {
     current: "Açaí",
   },
   hero: {
-    image: "/assets/cardapio/acai.png",
+    image: "/assets/acai/acai.png",
     title: "AÇAÍ",
     subtitle: "",
     description: "",

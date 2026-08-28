@@ -15,7 +15,7 @@ const SITE_CONFIG = {
   sectionTitle: "NOSSOS LANCHES",
   products: [
     {
-      image: "/assets/cardapio/batata.png",
+      image: "/assets/lanches/moto.png",
       name: "CARNE CREME COM QUEIJO",
       description:
         "Tiras de alcatra, maionese, vinagrete, milho e catupiry. Opcional: cheddar ou cream cheese.",
@@ -23,7 +23,7 @@ const SITE_CONFIG = {
       button: "ADICIONAR AO CARRINHO",
     },
     {
-      image: "/assets/cardapio/hotdog.png",
+      image: "/assets/lanches/moto.png",
       name: "BURGER PARMEGIANA",
       description:
         "Três almôndegas, maionese, vinagrete, milho, molho de tomate, azeitona, catupiry, queijo muçarela e batata palha.",
@@ -31,7 +31,7 @@ const SITE_CONFIG = {
       button: "ADICIONAR AO CARRINHO",
     },
     {
-      image: "/assets/cardapio/moto.png",
+      image: "/assets/lanches/moto.png",
       name: "XIS CORAÇÃO",
       description:
         "Coração refogado, molho de tomate artesanal, milho, queijo muçarela, batata palha e purê de batata. Opcional: cream cheese ou tomate fatiado.",
