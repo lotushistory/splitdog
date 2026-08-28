@@ -7,9 +7,14 @@ import MobileNavbar from "./components/MobileNavbar";
 import Cart from "./components/Cart";
 import { CartProvider } from "./context/CartContext";
 import HotDogsPage from "./pages/HotDogsPage";
+import HotDogsDocesPage from "./pages/HotDogsDocesPage";
+import LanchesPage from "./pages/LanchesPage";
 import MilkShakesPage from "./pages/MilkShakesPage";
 import ChurrosPage from "./pages/ChurrosPage";
 import CrepesPage from "./pages/CrepesPage";
+import CrepesDocesPage from "./pages/CrepesDocesPage";
+import CrepesSalgadosPage from "./pages/CrepesSalgadosPage";
+import SalgadosPage from "./pages/SalgadosPage";
 import AcaiPage from "./pages/AcaiPage";
 import BebidasPage from "./pages/BebidasPage";
 
@@ -42,6 +47,28 @@ function App() {
             }
           />
           <Route
+            path="/hot-dogs-doces"
+            element={
+              <div className="min-h-screen bg-[#f6f1eb]">
+                <DesktopNavbar />
+                <MobileNavbar />
+                <HotDogsDocesPage />
+                <Footer />
+              </div>
+            }
+          />
+          <Route
+            path="/lanches"
+            element={
+              <div className="min-h-screen bg-[#f6f1eb]">
+                <DesktopNavbar />
+                <MobileNavbar />
+                <LanchesPage />
+                <Footer />
+              </div>
+            }
+          />
+          <Route
             path="/milk-shakes"
             element={
               <div className="min-h-screen bg-[#f6f1eb]">
@@ -69,7 +96,29 @@ function App() {
               <div className="min-h-screen bg-[#f6f1eb]">
                 <DesktopNavbar />
                 <MobileNavbar />
-                <CrepesPage />
+                <CrepesSalgadosPage />
+                <Footer />
+              </div>
+            }
+          />
+          <Route
+            path="/crepes-doces"
+            element={
+              <div className="min-h-screen bg-[#f6f1eb]">
+                <DesktopNavbar />
+                <MobileNavbar />
+                <CrepesDocesPage />
+                <Footer />
+              </div>
+            }
+          />
+          <Route
+            path="/salgados"
+            element={
+              <div className="min-h-screen bg-[#f6f1eb]">
+                <DesktopNavbar />
+                <MobileNavbar />
+                <SalgadosPage />
                 <Footer />
               </div>
             }

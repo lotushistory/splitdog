@@ -13,7 +13,7 @@ const SITE_CONFIG = {
     description:
       "Salsicha de qualidade, ingredientes selecionados e muito sabor em cada mordida.",
   },
-  sectionTitle: "NOSSOS HOT DOGS",
+  sectionTitle: "NOSSOS HOT DOGS SALGADOS",
   products: [
     {
       image: "/assets/hotdogs/produto-1.png",
