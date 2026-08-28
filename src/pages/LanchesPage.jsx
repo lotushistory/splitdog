@@ -7,10 +7,10 @@ const SITE_CONFIG = {
     current: "Lanches",
   },
   hero: {
-    image: "",
+    image: "/assets/lanches/moto.png",
     title: "LANCHES E XIS",
-    subtitle: "",
-    description: "",
+    subtitle: "Saborosos, suculentos e feitos na hora!",
+    description: "Hambúrgueres artesanais, xis coração e muito mais. Ingredientes frescos e muito sabor!",
   },
   sectionTitle: "NOSSOS LANCHES",
   products: [

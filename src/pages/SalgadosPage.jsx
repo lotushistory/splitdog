@@ -7,10 +7,10 @@ const SITE_CONFIG = {
     current: "Porções",
   },
   hero: {
-    image: "/assets/cardapio/batata.png",
+    image: "/assets/porcoes/batata.png",
     title: "PORÇÕES",
     subtitle: "Coração e batata para compartilhar!",
-    description: "Porções generosas para acompanhar seu lanche.",
+    description: "Porções generosas para acompanhar seu lanche. Crocantes, saborosas e irresistíveis!",
   },
   sectionTitle: "NOSSAS PORÇÕES",
   products: [

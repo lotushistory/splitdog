@@ -7,10 +7,10 @@ const SITE_CONFIG = {
     current: "Crepes",
   },
   hero: {
-    image: "",
+    image: "/assets/crepes/crepe.png",
     title: "CREPES DOCES",
-    subtitle: "",
-    description: "",
+    subtitle: "Doces, cremosos e irresistíveis!",
+    description: "Massa fina e delicada com recheios doces incríveis. A sobremesa perfeita!",
   },
   sectionTitle: "NOSSOS CREPES DOCES",
   products: [

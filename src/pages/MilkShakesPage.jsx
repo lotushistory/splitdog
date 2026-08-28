@@ -9,8 +9,8 @@ const SITE_CONFIG = {
   hero: {
     image: "/assets/cardapio/milkshake.png",
     title: "MILK SHAKES",
-    subtitle: "",
-    description: "",
+    subtitle: "Cremosos, gelados e irresistíveis!",
+    description: "Milk shakes artesanais com sabores incríveis. A sobremesa perfeita para qualquer momento!",
   },
   sectionTitle: "NOSSOS MILK SHAKES",
   products: [],

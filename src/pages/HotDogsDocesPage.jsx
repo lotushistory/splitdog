@@ -9,8 +9,8 @@ const SITE_CONFIG = {
   hero: {
     image: "",
     title: "DOG DOCE",
-    subtitle: "",
-    description: "",
+    subtitle: "O melhor doce em formato de cachorro-quente!",
+    description: "Pão macio, Nutella, leite Moça e frutas frescas. Uma explosão de sabor doce!",
   },
   sectionTitle: "NOSSOS DOGS DOCES",
   products: [

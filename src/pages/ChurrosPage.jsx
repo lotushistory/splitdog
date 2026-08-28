@@ -7,10 +7,10 @@ const SITE_CONFIG = {
     current: "Churros",
   },
   hero: {
-    image: "",
+    image: "/assets/churros/churros.png",
     title: "CHURROS",
-    subtitle: "",
-    description: "",
+    subtitle: "Crocantes por fora, macios por dentro!",
+    description: "Massas douradas com recheios cremosos e coberturas deliciosas. O doce perfeito para qualquer hora!",
   },
   sectionTitle: "NOSSOS CHURROS",
   products: [

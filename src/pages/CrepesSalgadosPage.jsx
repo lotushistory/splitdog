@@ -7,10 +7,10 @@ const SITE_CONFIG = {
     current: "Crepes",
   },
   hero: {
-    image: "",
+    image: "/assets/crepes/crepe.png",
     title: "CREPES SALGADOS",
-    subtitle: "",
-    description: "",
+    subtitle: "Finos, recheados e cheios de sabor!",
+    description: "Massa leve e crocante com recheios irresistíveis. Escolha seu favorito!",
   },
   sectionTitle: "NOSSOS CREPES SALGADOS",
   products: [
